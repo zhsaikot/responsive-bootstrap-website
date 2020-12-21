@@ -1,0 +1,79 @@
+/*==================================
+============Global CSS==============
+================================*/
+
+
+/*------A------*/
+
+
+/*------B------*/
+
+.bg-header {
+    background-color: #7260c8;
+}
+
+.bg-transparent-white {
+    background-color: #ffffff5c;
+}
+
+.bg-transparent-dark {
+    background-color: #0000008c;
+}
+
+.bg-attachment-fixed {
+    background-attachment: fixed;
+}
+
+.bg-size-cover {
+    background-size: cover;
+}
+
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+
+.bg-position-center {
+    background-position: center;
+}
+
+.bg-black {
+    background-color: #111;
+}
+
+
+/*------C------*/
+
+.card-hover-visible {
+    visibility: hidden;
+}
+
+.card:hover .card-hover-visible {
+    visibility: visible;
+}
+
+
+/*------D------*/
+
+
+/*------E------*/
+
+
+/*------L------*/
+
+.left-auto {
+    left: auto;
+}
+
+
+/*------T------*/
+
+.top-auto {
+    top: auto;
+}
+
+.text-noimportant-white {
+    color: white;
+}
+
+
+/*------F------*/
